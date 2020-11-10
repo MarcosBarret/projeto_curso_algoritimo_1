@@ -11,7 +11,7 @@ Inicio
    leia(numero)
    
    escreval(nome, ":", numero)
-*/
+*/ 
 
 var nome, numero
 
