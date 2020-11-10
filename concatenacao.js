@@ -1,4 +1,4 @@
-/*
+/* 
 // Seção de Declarações das variáveis 
    nome: caractere
    numero: real

@@ -17,7 +17,7 @@ function acaoBotao(params)  {
         case "/":
             resultado = parseInt( valor01 ) / parseInt( valor02 )
             break;
-    }
+    } 
 
     document.getElementById("paragrafo").innerText = resultado
 }

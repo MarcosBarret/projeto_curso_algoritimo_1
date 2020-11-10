@@ -1,4 +1,4 @@
-/*
+/* 
 nota01, nota02: real
 
 Inicio
