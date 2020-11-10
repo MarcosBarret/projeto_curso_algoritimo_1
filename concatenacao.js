@@ -1,4 +1,4 @@
-/*
+/* 
 // Seção de Declarações das variáveis 
    nome: caractere
    numero: real
@@ -11,7 +11,7 @@ Inicio
    leia(numero)
    
    escreval(nome, ":", numero)
-*/
+*/ 
 
 var nome, numero
 
