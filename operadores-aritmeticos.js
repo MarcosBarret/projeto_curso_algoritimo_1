@@ -1,4 +1,4 @@
-/* 
+/*
 Var
 // Seção de Declarações das variáveis 
    resultado, valor01, valor02, valor03: real

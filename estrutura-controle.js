@@ -11,7 +11,7 @@
    senao
         escreval("Reprovado! ", nome)
    fimse
-*/ 
+*/
 
 var nome, nota01, nota02;
 nome = prompt("Digite o nome do aluno: ")

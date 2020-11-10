@@ -1,4 +1,4 @@
-/* 
+/*
    sairLoop: caractere
    valor01, valor02: real
 

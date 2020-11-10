@@ -1,4 +1,4 @@
-/* 
+/*
    nome: caractere
    idade, limite, contador: inteiro
 

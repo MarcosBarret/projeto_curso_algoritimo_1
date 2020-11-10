@@ -1,4 +1,4 @@
-/* 
+/*
 passou := falso
    escreval("Digite o nome do aluno: ")
    leia(nome)
